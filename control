@@ -1,0 +1,8 @@
+Package: com.ezccmodules.control-center.ezscreenshot
+Name: EzScreenshotModule
+Version: 1.1
+Architecture: iphoneos-arm
+Description: A button to take a screenshot from control center.
+Author: Simalary (Chris Harper)
+Section: Control Center (Modules)
+Maintainer: m4cs-Development, Simalary (Chris Harper)

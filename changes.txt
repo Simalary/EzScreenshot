@@ -1,0 +1,4 @@
+1.1
+
+- Updated the glyph resemble an actual screenshot.
+- Change the color to a fun, bright, happy pink.
